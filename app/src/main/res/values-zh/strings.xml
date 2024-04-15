@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">TVBox</string>
     <string name="app_home">首页</string>
-    <string name="app_source">http://ty.hfjiamei.cn:10801/TVBox/1.json</string>
+    <string name="app_source">https://s2.pub/vo</string>
 
     // Home Page //
     <string name="hm_ok">加载成功</string>
